@@ -66,3 +66,6 @@ The dashboard is optimized for student usage patterns, offering:
 - **Documentation**: Comprehensive READMEs and design docs for maintainability.
 
 ---
+
+**Built for the Campus Hiring Evaluation Pipeline.**
+
