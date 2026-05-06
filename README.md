@@ -3,6 +3,8 @@
 ## 📋 Project Overview
 A comprehensive notification system designed to streamline campus communication. This repository contains a production-grade implementation of a prioritized notification engine, featuring a React/Next.js frontend, a Node.js backend, and a custom logging infrastructure.
 
+![UI Preview](https://github.com/Kanishkhan/CB.SC.U4CSE23626/blob/main/UI.png)
+
 ### 🏗 Repository Structure
 | Component | Path | Description |
 | :--- | :--- | :--- |
